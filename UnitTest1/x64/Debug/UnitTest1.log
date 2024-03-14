@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+D:\Programs\Visual Studio\Projects\Lab_08_1_char\Lab_08_1_char\Main.cpp(26,26): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\Programs\Visual Studio\Projects\Lab_08_1_char\Lab_08_1_char\Main.cpp(32,26): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\Programs\Visual Studio\Projects\Lab_08_1_char\Lab_08_1_char\Main.cpp(27,13): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Programs\Visual Studio\Projects\Lab_08_1_char\Lab_08_1_char\Main.cpp(28,13): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Programs\Visual Studio\Projects\Lab_08_1_char\Lab_08_1_char\Main.cpp(33,13): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Programs\Visual Studio\Projects\Lab_08_1_char\Lab_08_1_char\Main.cpp(37,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Programs\Visual Studio\Projects\Lab_08_1_char\Lab_08_1_char\Main.cpp(38,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     Creating library D:\Programs\Visual Studio\Projects\Lab_08_1_char\x64\Debug\UnitTest1.lib and object D:\Programs\Visual Studio\Projects\Lab_08_1_char\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\Programs\Visual Studio\Projects\Lab_08_1_char\x64\Debug\UnitTest1.dll
